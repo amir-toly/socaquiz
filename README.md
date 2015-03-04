@@ -4,7 +4,7 @@ Tools:
 - PostgreSQL 9.4.1
 
 Steps:
-- Import from Git > Projects from Git as a Dynamic Web Project to deploy in Tomcat
+- Import from Maven > Check out Maven Projects from SCM
 - Create a database named socaquiz
 - Load content from db.sql file into socaquiz database
 - Run the project on Tomcat
